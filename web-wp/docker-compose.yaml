@@ -52,10 +52,10 @@ services:
     environment: 
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/Madrid
-      - URL=tudominio.com # debe ser un dominio válido 
-#     - SUBDOMAINS=www,   # opcional   
-      - EMAIL=tuemail@gmail.com   # debe ser un email válido  
+      - TZ=America/Bogota
+      - URL=producto1topicoseafit.gq # debe ser un dominio válido 
+      - SUBDOMAINS=www,   # opcional   
+      - EMAIL=jssaninv@eafit.edu.co   # debe ser un email válido  
       - VALIDATION=http
       - STAGING=false 
       
