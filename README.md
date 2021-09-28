@@ -22,5 +22,5 @@ Se adquirio el dominio por medio de freenom, se creó la instancia de la VM en g
 4) por ultimo Subir docker en la ruta home/jssaninv/Producto1Tele/web-wp `sudo docker-compose up -d`
 # Ejecución
 Utilizar cualquiera de las dos siguientes opciones en el buscador:
-1) Dirección ip: 35.192.190.16
+1) Dirección ip: https://35.192.190.16/
 2) Poner el dominio: https://producto1topicoseafit.gq/
