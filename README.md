@@ -1,7 +1,7 @@
 # ST0263-jssaninv
 
 # Titulo
-Laboratorio 4
+Producto 1
 
 # Autor
 Juan Sebastián Sanín Villarreal
