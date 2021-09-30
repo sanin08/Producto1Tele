@@ -13,7 +13,7 @@ Certificado SSL wordpress: docker
 Se implementó una pagina WEB desplegada en GCP la cual posee una certificación en SSL y es creada en wordpress
 
 # Diseño
-Se adquirio el dominio por medio de freenom, se creó la instancia de la VM en google cloud, se tiene el certificado SSL por medio del gitHub https://github.com/jmlcas/Docker-WordPress-SSL.git, también se tiene una ip V4 elastica en VPC de GCP, por ultimo se implementó el cloud DNS
+Se adquirio el dominio por medio de freenom, se creó la instancia de la VM en google cloud, se tiene el certificado SSL por medio del gitHub https://github.com/jmlcas/Docker-WordPress-SSL.git, también se tiene una ip V4 elastica en VPC de GCP, por ultimo se implementó el cloud DNS, Se utiliza 1 maquina para la base de datos y para el wordpress
 
 # Instalación
 1) Instalar git en cd home/jssaninv/ `sudo apt-get install git`
